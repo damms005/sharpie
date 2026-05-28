@@ -22,7 +22,7 @@
   "devDependencies": {
     "@quasar/app-vite": "^1.8.0",
     "autoprefixer": "^10.4.2",
-    "electron": "^29.1.6",
+    "electron": "^39.8.5",
     "electron-builder": "^24.13.3",
     "electron-packager": "^17.1.2",
     "postcss": "^8.4.14"
